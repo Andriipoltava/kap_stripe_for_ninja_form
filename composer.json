@@ -1,0 +1,23 @@
+{
+    "name": "andrii/kap_stripe_for_ninja_form",
+    "description": "Ninja form - Strips connect to one form",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Omelianenko Andrii",
+            "email": "Omelianenko993@gmail.com"
+        }
+    ],
+
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "core"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "core"
+        ]
+    }
+}
